@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @AdwaithVarma2006
-- 👀 I’m interested in Game Developing
+- 👀 I’m interested in Software Developing
 - 🌱 I’m currently learning Bot Configuring
-- 💞️ I’m looking to collaborate on Telegram
-- 📫 How to reach me , Contact https://t.me/Varma2006
+- 📫 How to reach me , Contact https://t.me/AdwaithVarma
 
 <!---
 AdwaithVarma2006/AdwaithVarma2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
